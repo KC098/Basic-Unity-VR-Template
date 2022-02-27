@@ -1,0 +1,13 @@
+{
+  "name": "com.ideasmarketing.template.vr",
+  "displayName": "VR",
+  "version": "1.0.0",
+  "type": "template",
+  "unity": "2020.1",
+  "description": "Use this template to create an VR project with XR Interaction plugin.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KC098/Basic-Unity-VR-Template.git"
+  }
+}
